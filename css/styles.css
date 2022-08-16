@@ -1,0 +1,9 @@
+.footer hr{color:#739174!important}
+.navbar-light .d-lg-none{content:url(../img/logo/logo-dark.png)} /* change on a proper logo after scroll */
+.navbar-sticky .navbar-toggler{position:absolute} /* we need it to place the logo in the middle in mobile version*/
+@media (max-width: 768px) {
+  .subscription{margin:auto!important;margin-bottom:1.5rem!important}
+}
+@media (min-width: 992px) {
+  .pb-1{white-space:nowrap}
+}
